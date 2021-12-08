@@ -12,9 +12,9 @@ There are a total of 9 files in this repository:  <br/>
   data_11_30_21.csv  --> dataset that contains Google news headlines for 11/30/21  <br/>
   data_12_1_21.csv --> dataset that contains Google news headlines for 12/1/21  <br/>
   news_sentiment_analysis.py --> code that applies sentiment analysis to each headline  <br/>
-  state_abbrev.xlsx --> file that contains state abbreviations, this will be used as a coordinate in the US map   <br/>
+  state_abbrev.csv --> file that contains state abbreviations, this will be used as a coordinate in the US map   <br/>
   test.csv --> test dataset consisting of radnomly selected 300 headlines, this is used to calculate our model's accuracy, precision and recall  <br/>
-  vaccinations.xlsx --> contains vaccination rates for 50 U.S. states as of 12/6/21 <br/>
+  vaccinations.csv --> contains vaccination rates for 50 U.S. states as of 12/6/21 <br/>
   
 # Instructions 
 
