@@ -31,7 +31,8 @@ nltk\
 plotly\
 dash  \
 dash-html-components\
-dash-core-components
+dash-core-components\
+openpyxl (this MAY needed to be installed)\
 
 3. Once you've installed those files all you have to do is run the following script from the command line. Before your run the below code, make sure you specify the location of the file OR make you're already located in that specific folder that contains the file: \
 python news_sentiment_analysis.py\
