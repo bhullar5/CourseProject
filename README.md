@@ -3,6 +3,7 @@
 Goal 1: Use web scraping techniques discussed in class to generate a dataset that consists of Covid-19 related headlines for each state.
 Goal 2: Implement SentimentIntensityAnalyzer to apply sentiment analysis to each headline.
 Goal 3: Display the results for each state as a percentage of neutral, positive and negatives headlines.
+Tools: Python 3.9
 
 # Files
 
@@ -18,3 +19,20 @@ There are a total of 9 files in this repository:  <br/>
 # Instructions 
 
 1. Clone the repository in your directory of interest. To do this simply open the command line and enter:
+
+ git clone https://github.com/bhullar5/CourseProject.git 
+ 
+2. Once you've cloned the repository into your directory of choice we want to make sure we have the necessary libraries to run this code. Please make sure you have the following packages/libraries installed:
+pandas
+beautifulsoup4
+numpy
+nltk
+plotly
+dash  
+dash-html-components
+dash-core-components
+
+3. Once you download the files o
+
+4. Once you've installed those files all you have to do is run the following script from the command line. Make sure you specify the location of the file OR make you're already located in that specific folder: 
+python news_sentiment_analysis.py
