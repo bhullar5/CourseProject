@@ -17,3 +17,4 @@ There are a total of 9 files in this repository:  <br/>
   
 # Instructions 
 
+1. Clone the repository in your directory of interest. To do this simply open the command line and enter:
