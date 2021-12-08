@@ -1,0 +1,301 @@
+,level_0,index,Unnamed: 0,Headline,Actual,Country,Neutral,Positive,Negative,Sentiment,Sentiment_C,Compound,Neutral_Num,Positive_Num,Negative_Num,Neutral_Num_C,Positive_Num_C,Negative_Num_C,Actual_Text
+0,341,341,341,"loretta marvin obituary (1937 - 2021) - juneau, ak - juneau empire",0,Alaska,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+1,6056,6056,6056,covid-19 public health emergency,-1,Massachusetts,0.536,0,0.464,neu,neg,-0.3818,1,0,0,0,0,1,neg
+2,23778,8778,8778,"department of health | news | murphy administration announces $267 million in funding for student, staff covid-19 screening testing at k-12 schools",1,New Jersey,1,0,0,neu,neu,0,1,0,0,1,0,0,pos
+3,15127,127,127,amazon workers in alabama will get another shot to unionise,0,Alabama,0.841,0.159,0,neu,pos,0.1779,1,0,0,0,1,0,neu
+4,27194,12194,12194,"covid-19 in south dakota: 137 total new cases; death toll rises to 1,838; active cases decrease to 2,119",0,South Dakota,0.708,0.119,0.173,neu,neg,-0.296,1,0,0,0,0,1,neu
+5,15170,170,170,alabama coronavirus numbers update,0,Alabama,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+6,19633,4633,4633,coronavirus: nrh pausing employee vaccination plan,-1,Kansas,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+7,6053,6053,6053,here's why gov. baker thinks covid cases are spiking in mass.,0,Massachusetts,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+8,10032,10032,10032,active covid-19 cases in north dakota surge; 9 counties fall under new mask guidance,0,North Dakota,0.816,0.184,0,neu,pos,0.4019,1,0,0,0,1,0,neu
+9,19914,4914,4914,british transplant enjoying life in kentucky,1,Kentucky,0.595,0.405,0,neu,pos,0.5267,1,0,0,0,1,0,pos
+10,26464,11464,11464,a positive covid-19 milestone for rhode island,1,Rhode Island,0.581,0.419,0,neu,pos,0.5574,1,0,0,0,1,0,pos
+11,10746,10746,10746,frequently asked questions and answers about covid-19 vaccine in oklahoma,0,Oklahoma,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+12,9217,9217,9217,"stocks sink as omicron, rate worries rattle wall street",-1,New Mexico,0.741,0,0.259,neu,neg,-0.4215,1,0,0,0,0,1,neg
+13,26051,11051,11051,oregon hospitals crushed by covid put other surgeries on hold : shots - health news,-1,Oregon,0.811,0,0.189,neu,neg,-0.4215,1,0,0,0,0,1,neg
+14,15878,878,878,"coronavirus cases in arizona, mapped by county: oct. 25",0,Arizona,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+15,16506,1506,1506,"colorado’s covid hospitalizations jump again as virus’ statewide death toll surpasses 9,000",-1,Colorado,0.738,0,0.262,neu,neg,-0.5994,1,0,0,0,0,1,neg
+16,12076,12076,12076,south dakota deaths rose during covid-19 pandemic,-1,South Dakota,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+17,6969,6969,6969,"1,000 contract medical workers to help with mississippi covid surge",1,Mississippi,0.769,0.231,0,neu,pos,0.4019,1,0,0,0,1,0,pos
+18,3304,3304,3304,idaho joins lawsuit against federal covid-19 vaccine mandate,-1,Idaho,0.787,0,0.213,neu,neg,-0.2263,1,0,0,0,0,1,neg
+19,7929,7929,7929,omicron covid variant not cause for panic as of now; health officials say continue to get vaccinated,1,Nebraska,0.856,0.144,0,neu,pos,0.4023,1,0,0,0,1,0,pos
+20,22056,7056,7056,coast hospital leaders share covid-19 horror stories,-1,Mississippi,0.459,0.202,0.339,neu,neg,-0.3612,1,0,0,0,0,1,neg
+21,22010,7010,7010,all mississippi adults now eligible for covid-19 booster shot,0,Mississippi,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+22,19732,4732,4732,‘like we’re on an island’: how missouri’s inaction allowed delta variant to spread,-1,Kansas,0.857,0,0.143,neu,neg,-0.25,1,0,0,0,0,1,neg
+23,212,212,212,covid-19 omicron variant uncertainty adds to alabama's health officials list of concerns,-1,Alabama,0.821,0,0.179,neu,neg,-0.34,1,0,0,0,0,1,neg
+24,27191,12191,12191,nursing shortage worsens in south dakota at a time when covid-19 is reemerging,-1,South Dakota,0.662,0,0.338,neu,neg,-0.6249,1,0,0,0,0,1,neg
+25,20041,5041,5041,lexington weighs spending $10 million in covid money on youth sports complex,0,Kentucky,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+26,28619,13619,13619,"at this point, more than shots needed to slow coronavirus in virginia, scientists say",-1,Virginia,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+27,10516,10516,10516,"new covid-19 variant confirmed in oklahoma, doctors urge vaccine for children",-1,Oklahoma,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+28,863,863,863,arizona reporting spike in coronavirus cases | thehill,0,Arizona,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+29,21422,6422,6422,michigan's whitmer vetoes gop bill to forgive businesses for 1st-time covid-rule violations,1,Michigan,0.645,0.135,0.219,neu,neg,-0.3182,1,0,0,0,0,1,pos
+30,344,344,344,"as u.s. races to detect and track omicron, patchwork surveillance makes that tough",-1,Alaska,0.889,0,0.111,neu,neg,-0.128,1,0,0,0,0,1,neg
+31,27204,12204,12204,"federal judge blocks biden vaccine mandate for health care workers in south dakota, 9 other states",-1,South Dakota,0.718,0.177,0.105,neu,pos,0.3182,1,0,0,0,1,0,neg
+32,26737,11737,11737,'trucker bob' running for governor of south carolina,0,South Carolina,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+33,25329,10329,10329,"analysis | 'needle nazis,' 'medical brown shirts,' mengele and stars of david: how nazi-coronavirus comparisons have proliferated on the right",0,Ohio,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+34,9556,9556,9556,should our supervisor have told us that a work colleague had covid?,0,New York,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+35,18406,3406,3406,workers’ comp in idaho has paid more than $2 million connected to covid-19,-1,Idaho,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+36,4156,4156,4156,81 of indiana’s 92 counties considered ‘high’ or ‘substantial’ for covid-19 spread by cdc,0,Indiana,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+37,23548,8548,8548,new hampshire nears grim covid milestone,-1,New Hampshire,0.575,0,0.425,neu,neg,-0.5719,1,0,0,0,0,1,neg
+38,14656,14656,14656,south african covid-19 variant found in wisconsin,0,Wisconsin,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+39,28257,13257,13257,'substantial' covid-19 transmission puts some vermont counties under new cdc guidance,0,Vermont,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+40,9860,9860,9860,nc coronavirus update march 24: north carolina prepares to reopen more businesses at increased capacity,1,North Carolina,0.856,0.144,0,neu,pos,0.3321,1,0,0,0,1,0,pos
+41,9671,9671,9671,nc coronavirus update october 7: duke basketball events at cameron indoor to require vaccine or negative covid-19 test,0,North Carolina,0.821,0,0.179,neu,neg,-0.5719,1,0,0,0,0,1,neu
+42,3516,3516,3516,how idaho parents can get their kids vaccinated against covid-19 at primary health,0,Idaho,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+43,3750,3750,3750,coronavirus in illinois updates: here’s what happened june 2 with covid-19 in the chicago area,0,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+44,11608,11608,11608,how rhode island fell to the coronavirus,-1,Rhode Island,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+45,2177,2177,2177,covid-19 vaccine waiting list now open to delawareans 50+ - state of delaware news,0,Delaware,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+46,15693,693,693,"the delta variant is now the dominant covid-19 strain in arizona, researcher says",0,Arizona,0.909,0,0.091,neu,neg,-0.0516,1,0,0,0,0,1,neu
+47,17760,2760,2760,where will the covid-19 delta variant strike in georgia? we need genomic surveillance to know.,0,Georgia,0.903,0,0.097,neu,neg,-0.128,1,0,0,0,0,1,neu
+48,19329,4329,4329,stocks tumble as investors weighed potential effects from omicron variant,-1,Iowa,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+49,5160,5160,5160,is another covid surge in louisiana possible? officials worry as state's vaccine rates remain low,0,Louisiana,0.722,0,0.278,neu,neg,-0.6124,1,0,0,0,0,1,neu
+50,23498,8498,8498,new hampshire covid-19 cases decline to lowest level since early november,1,New Hampshire,0.794,0,0.206,neu,neg,-0.3818,1,0,0,0,0,1,pos
+51,20196,5196,5196,another youth has died from covid-19 in louisiana,-1,Louisiana,0.66,0,0.34,neu,neg,-0.5574,1,0,0,0,0,1,neg
+52,8460,8460,8460,new hampshire health officials relax mask guidance as covid-19 cases continue to decline,1,New Hampshire,0.805,0.195,0,neu,pos,0.4404,1,0,0,0,1,0,pos
+53,12953,12953,12953,kids under construction – overcoming vaccination fears,0,Utah,0.641,0,0.359,neu,neg,-0.4215,1,0,0,0,0,1,neu
+54,4554,4554,4554,gop wants kansas to move against vaccine mandates this month,-1,Kansas,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+55,5579,5579,5579,"while maine coronavirus numbers dip, portland's popular dance club makes its return",0,Maine,0.797,0.203,0,neu,pos,0.4215,1,0,0,0,1,0,neu
+56,13048,13048,13048,"is the delta variant in utah? yes, and doctors say it’s spreading",-1,Utah,0.803,0.197,0,neu,pos,0.4019,1,0,0,0,1,0,neg
+57,29679,14679,14679,69 more deaths from covid-19 in wisconsin; 164 newly hospitalized,-1,Wisconsin,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+58,7869,7869,7869,"siu-edwardsville 75, nebraska-omaha 65",0,Nebraska,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+59,20479,5479,5479,3 things you need to know from the maine cdc covid-19 briefing,0,Maine,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+60,13862,13862,13862,inmate serving life sentence at preston county prison dies from covid-19,-1,Washington,0.662,0.096,0.243,neu,neg,-0.4588,1,0,0,0,0,1,neg
+61,18750,3750,3750,illinois coronavirus updates: university of illinois to require covid vaccine for students,0,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+62,28807,13807,13807,counties with highest covid-19 infection rates in washington,0,Washington,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+63,14418,14418,14418,data: widespread covid-19 in deer,0,Wisconsin,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+64,1774,1774,1774,covid in colorado: which denver neighborhoods have been hit hardest and why,0,Colorado,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+65,698,698,698,arizona seeing surge in demand for covid-19 tests,0,Arizona,0.824,0,0.176,neu,neg,-0.128,1,0,0,0,0,1,neu
+66,16044,1044,1044,arkansas health officials fear 'significant' covid-19 spike after labor day gatherings,-1,Arkansas,0.758,0,0.242,neu,neg,-0.4939,1,0,0,0,0,1,neg
+67,9038,9038,9038,mescalero apache tribe updates covid-19 mitigation requirements,0,New Mexico,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+68,1049,1049,1049,arkansas department of education using federal coronavirus aid for kids' books from huckabee-founded company,-1,Arkansas,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+69,25627,10627,10627,cdc reports 47 new covid-19 deaths in oklahoma,-1,Oklahoma,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+70,18515,3515,3515,"california confirms first us case of omicron covid-19 variant, health officials say",0,Idaho,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+71,25854,10854,10854,"across oregon, 1,000 hospitalized with covid-19",-1,Oregon,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+72,1415,1415,1415,broncos knocked off by aztecs,0,California,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+73,6759,6759,6759,covid-19 surge taking toll on minnesota hospitals,-1,Minnesota,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+74,7269,7269,7269,covid-19 outbreak hits missouri building for state workers in jefferson city,-1,Missouri,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+75,7149,7149,7149,"mississippi daily covid-19 cases hit record high of more than 4,000 on thursday",-1,Mississippi,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+76,1942,1942,1942,greenwich schools report 10 new covid cases as officials prep for second-dose vaccine clinics for kids,-1,Connecticut,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+77,6906,6906,6906,new covid-19 cases in mississippi schools decrease marginally in one week,-1,Mississippi,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+78,947,947,947,"governor hutchinson provides weekly briefing on tax relief plan, covid-19",0,Arkansas,0.744,0.256,0,neu,pos,0.4767,1,0,0,0,1,0,neu
+79,18547,3547,3547,europe’s christmas markets warily open as covid cases rise,0,Idaho,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+80,17638,2638,2638,sunburn — the morning read of what's hot in florida politics — 11.30.21,0,Florida,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+81,9465,9465,9465,"as virus cases rise in europe, an economic toll returns",-1,New York,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+82,16798,1798,1798,"coronavirus in colorado: covid-19 updates for march 22-march 28, 2021",0,Colorado,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+83,25674,10674,10674,what is the ‘highly mutated’ c.1.2 coronavirus variant?,0,Oklahoma,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+84,12561,12561,12561,tennessee has highest covid-19 infection rate of any state in us,-1,Tennessee,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+85,24664,9664,9664,charlotte doctor explains where we are in the covid-19 pandemic,0,North Carolina,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+86,23023,8023,8023,"covid-19 in iowa, nebraska: tracking cases, and the latest vaccine information",0,Nebraska,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+87,3994,3994,3994,indiana's largest hospital system stopping some surgeries due to covid-19,-1,Indiana,0.849,0,0.151,neu,neg,-0.1531,1,0,0,0,0,1,neg
+88,1402,1402,1402,southern california man charged in cryptocurrency fraud scheme,-1,California,0.517,0,0.483,neu,neg,-0.6808,1,0,0,0,0,1,neg
+89,3511,3511,3511,cdc expands omicron testing to four airports as direct flights continue from southern africa,0,Idaho,0.903,0.097,0,neu,pos,0.1027,1,0,0,0,1,0,neu
+90,5858,5858,5858,maryland to require coronavirus vaccination or testing for health-care workers,0,Maryland,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+91,23433,8433,8433,"hampton, portsmouth nursing homes hit with covid-19 outbreaks",-1,New Hampshire,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+92,28090,13090,13090,"children, adults equally vulnerable to coronavirus infection",0,Utah,0.759,0,0.241,neu,neg,-0.2263,1,0,0,0,0,1,neu
+93,12131,12131,12131,covid-19 in south dakota: june 2021 daily updates,0,South Dakota,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+94,1424,1424,1424,california officer dies after missing vaccination deadline,-1,California,0.732,0,0.268,neu,neg,-0.296,1,0,0,0,0,1,neg
+95,15972,972,972,arkansas surgeon general concerned labor day weekend could bring spike in covid-19 cases,-1,Arkansas,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+96,24847,9847,9847,coronavirus live updates: here’s what to know in north carolina on dec. 30,0,North Carolina,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+97,28370,13370,13370,virus in vermont: derby farm pivoted as covid hit,0,Vermont,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+98,21056,6056,6056,here's why gov. baker thinks covid cases are spiking in mass.,0,Massachusetts,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+99,27446,12446,12446,covid-19 spread in tennessee: is my county a high or substantial transmission area?,0,Tennessee,0.859,0.141,0,neu,pos,0.2023,1,0,0,0,1,0,neu
+100,29172,14172,14172,west virginia sees a spike in overall covid-19 numbers and delta variants,-1,West Virginia,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+101,22665,7665,7665,stocks dive over the potential economic fallout from the omicron variant,-1,Montana,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+102,26338,11338,11338,"bears postpone two additional games, four consecutive games moved due to covid-19 issues",0,Pennsylvania,0.863,0,0.137,neu,neg,-0.2263,1,0,0,0,0,1,neu
+103,9745,9745,9745,"nc coronavirus update august 2: covid-19 hospitalizations in north carolina rise to 1,359",-1,North Carolina,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+104,9107,9107,9107,"new mexico planning covid vaccine clinics for kids, broader school testing program as cases increase",-1,New Mexico,0.859,0.141,0,neu,pos,0.3182,1,0,0,0,1,0,neg
+105,3526,3526,3526,"after covid takes idaho man’s life, being thankful god blessed me with such a friend",1,Idaho,0.437,0.563,0,pos,pos,0.9169,0,1,0,0,1,0,pos
+106,19502,4502,4502,kansas health secretary says he was ‘fauci’d’ by covid politics,0,Kansas,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+107,13721,13721,13721,"gov. northam, leader of virginia’s fight against pandemic, has had ‘long covid’ for a year",0,Virginia,0.833,0,0.167,neu,neg,-0.3818,1,0,0,0,0,1,neu
+108,23551,8551,8551,virus politics run hot in nh,0,New Hampshire,0.61,0.39,0,neu,pos,0.4939,1,0,0,0,1,0,neu
+109,28124,13124,13124,utah olympic bid: meeting in switzerland delayed due to covid,-1,Utah,0.826,0,0.174,neu,neg,-0.2263,1,0,0,0,0,1,neg
+110,10819,10819,10819,children account for high proportion of oregonians susceptible to covid-19 infection,-1,Oregon,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+111,29816,14816,14816,"grace smith, wyoming parents sue governor, health officials over covid-19 mandates",-1,Wyoming,0.781,0.219,0,neu,pos,0.4215,1,0,0,0,1,0,neg
+112,18990,3990,3990,indiana says cybersecurity company 'improperly accessed' covid-19 data,-1,Indiana,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+113,5944,5944,5944,what you need to know about the new covid-19 variant,0,Maryland,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+114,26221,11221,11221,"covid virus found in deer should prompt hunters to take precautions, say penn state researchers",0,Pennsylvania,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+115,20941,5941,5941,"many marylanders eager to return to thanksgiving volunteer efforts after covid pause, but some precautions still in place",0,Maryland,0.907,0.093,0,neu,pos,0.1901,1,0,0,0,1,0,neu
+116,12881,12881,12881,"at least 45 districts shut down in-person classes due to covid-19 cases, affecting more than 40000 students",0,Texas,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+117,27914,12914,12914,testing for covid-19 gets even easier in utah,0,Utah,0.714,0.286,0,neu,pos,0.4215,1,0,0,0,1,0,neu
+118,12910,12910,12910,"utah 6-year-old hospitalized for rare, dangerous inflammatory syndrome caused by covid-19",-1,Utah,0.763,0,0.237,neu,neg,-0.4767,1,0,0,0,0,1,neg
+119,21688,6688,6688,all but 2 minnesota counties have 'high' level of covid-19 transmission,1,Minnesota,1,0,0,neu,neu,0,1,0,0,1,0,0,pos
+120,15124,124,124,"12,000 dead in alabama due to covid-19",-1,Alabama,0.583,0,0.417,neu,neg,-0.6486,1,0,0,0,0,1,neg
+121,19608,4608,4608,does a patient need to know which variant of covid-19 infected them?,0,Kansas,0.758,0,0.242,neu,neg,-0.4939,1,0,0,0,0,1,neu
+122,15129,129,129,"adph urges continuation of masking in alabama schools, more to help reduce cases of coronavirus",0,Alabama,0.825,0.175,0,neu,pos,0.4549,1,0,0,0,1,0,neu
+123,22058,7058,7058,mississippi now has country's highest rate for covid deaths,-1,Mississippi,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+124,28525,13525,13525,new covid-19 vaccine may protect against existing and future strains of coronavirus,1,Virginia,0.676,0.176,0.149,neu,pos,0.1027,1,0,0,0,1,0,pos
+125,27731,12731,12731,"how north texas arts venues are managing covid safety, including testing and masking",0,Texas,0.811,0.189,0,neu,pos,0.4215,1,0,0,0,1,0,neu
+126,3047,3047,3047,hawaiian holdings announces 2022 investor outlook webcast,0,Hawaii,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+127,23992,8992,8992,"office of the governor | transcript: august 2nd, 2021 coronavirus briefing media",0,New Jersey,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+128,13468,13468,13468,"vermont borders states with major covid-19 outbreaks, but you won’t find that here",0,Vermont,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+129,16064,1064,1064,neighbors’ deaths from covid-19 have an arkansas town reassessing vaccines,1,Arkansas,1,0,0,neu,neu,0,1,0,0,1,0,0,pos
+130,10130,10130,10130,"covid-19 variant catches researchers eye, but health guidance remains the same",0,North Dakota,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+131,18872,3872,3872,"64 cases of covid-19 delta variant reported in illinois so far, health officials say",-1,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+132,27616,12616,12616,texas' ban on mask mandates in public schools back in place after federal appeals court ruling,-1,Texas,0.806,0,0.194,neu,neg,-0.5574,1,0,0,0,0,1,neg
+133,1745,1745,1745,"travel restricted from south africa, several other countries due to omicron variant",-1,Colorado,0.809,0,0.191,neu,neg,-0.3818,1,0,0,0,0,1,neg
+134,9893,9893,9893,"nc coronavirus update february 7: north carolina reports 4,674 new covid-19 cases as hospitalizations drop again to 2,378",0,North Carolina,0.89,0,0.11,neu,neg,-0.2732,1,0,0,0,0,1,neu
+135,5390,5390,5390,new guidelines: louisiana public school students won't have to quarantine after covid exposure,-1,Louisiana,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+136,18102,3102,3102,gov. david ige loosens hawaii’s covid restrictions: statewide capacity limits will end on dec. 1,0,Hawaii,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+137,4902,4902,4902,"kentucky surpasses 10,000 coronavirus-related deaths",-1,Kentucky,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+138,12221,12221,12221,"south dakota reports six new covid deaths, pushing statewide total over 2,300",-1,South Dakota,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+139,19285,4285,4285,"as covid cases spike in iowa, tests are available — but quick results are harder to find",0,Iowa,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+140,11926,11926,11926,"south carolina tops nation in covid-19 new cases per 100,000 people, report says",-1,South Carolina,0.784,0.216,0,neu,pos,0.5106,1,0,0,0,1,0,neg
+141,7229,7229,7229,"new covid omicron variant 'not a cause for panic,' biden says • missouri independent",0,Missouri,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+142,9079,9079,9079,regeneron says its antibody treatment ‘may be’ less effective against omicron,0,New Mexico,0.781,0.219,0,neu,pos,0.4228,1,0,0,0,1,0,neu
+143,5131,5131,5131,louisiana judges get pay cut after courts collect fewer fines and fees,0,Louisiana,0.741,0,0.259,neu,neg,-0.3612,1,0,0,0,0,1,neu
+144,153,153,153,"alabama schools report 6,382 covid cases, consider mask changes",0,Alabama,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+145,9774,9774,9774,nc gov. cooper urges people to get ‘god-given’ vaccinations as covid-19 cases rise,0,North Carolina,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+146,16309,1309,1309,"coronavirus bay area live updates: don't give kids pain reliever before vaccine, cdc says",0,California,0.698,0.302,0,neu,pos,0.6372,1,0,0,0,1,0,neu
+147,10376,10376,10376,health officials concerned by northern ohio coronavirus trends,-1,Ohio,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+148,15573,573,573,realities diverge after anchorage conservative activist dies from covid,-1,Alaska,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+149,20541,5541,5541,"144 maine schools experiencing coronavirus outbreaks, according to maine doe",0,Maine,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+150,21050,6050,6050,video: massachusetts doctor shares his 3 biggest concerns about omicron covid-19 variant,0,Massachusetts,0.82,0.18,0,neu,pos,0.296,1,0,0,0,1,0,neu
+151,6862,6862,6862,"minnesota wastewater has predicted each covid wave, including this one",0,Minnesota,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+152,12671,12671,12671,ccisd offering covid-19 vaccinations for children at 15 elementary schools,0,Texas,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+153,29159,14159,14159,brazil and japan report first cases of he omicron variant,0,West Virginia,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+154,5842,5842,5842,coronavirus information - washington county,0,Maryland,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+155,10420,10420,10420,ohio gov. mike dewine discusses covid-19 exposure,0,Ohio,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+156,13337,13337,13337,vermont conversation: is vermont squandering its covid-19 success?,0,Vermont,0.654,0.346,0,neu,pos,0.5719,1,0,0,0,1,0,neu
+157,25668,10668,10668,"oklahoma man still in icu after four months due to covid-19, needs double lung and heart transplant to survive off ventilator",-1,Oklahoma,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+158,18987,3987,3987,"coronavirus: indiana sets end for covid-19 restrictions, to open eligibility to all 16+",1,Indiana,1,0,0,neu,neu,0,1,0,0,1,0,0,pos
+159,16933,1933,1933,biden vaccine rule for health workers blocked in 10 states,-1,Connecticut,0.811,0,0.189,neu,neg,-0.2732,1,0,0,0,0,1,neg
+160,3091,3091,3091,"doh investigated 2 covid clusters linked to oahu restaurant, entertainment venue",0,Hawaii,0.763,0.237,0,neu,pos,0.4215,1,0,0,0,1,0,neu
+161,1804,1804,1804,most connecticut cities and towns in red zone for covid-19 infections,-1,Connecticut,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+162,29572,14572,14572,coronavirus | waow.com,0,Wisconsin,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+163,16586,1586,1586,"coronavirus in colorado: covid-19 updates for oct. 11-17, 2021",0,Colorado,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+164,17037,2037,2037,"governor lamont announces connecticut residents over 65 can register for covid-19 vaccination appointments starting thursday, february 11",0,Connecticut,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+165,7901,7901,7901,details return to nebraska's covid-19 dashboard,0,Nebraska,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+166,18355,3355,3355,more than half of unvaccinated idahoans say they definitely won't get the covid-19 vaccine,-1,Idaho,0.828,0.172,0,neu,pos,0.4019,1,0,0,0,1,0,neg
+167,23553,8553,8553,covid tracker: booster numbers top 12000 in nh – now make that 12001,0,New Hampshire,0.667,0.333,0,neu,pos,0.6124,1,0,0,0,1,0,neu
+168,18772,3772,3772,coronavirus in illinois updates: here’s what happened april 9 with covid-19 in the chicago area,0,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+169,11556,11556,11556,ri reports 163 more delta variant cases as covid-19 hospitalizations increase,-1,Rhode Island,0.813,0.187,0,neu,pos,0.3182,1,0,0,0,1,0,neg
+170,21285,6285,6285,"covid cases rising in massachusetts' young people, prompting plea from baker",0,Massachusetts,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+171,3417,3417,3417,fda panel backs first-of-a-kind covid-19 pill from merck,0,Idaho,0.854,0,0.146,neu,neg,-0.0516,1,0,0,0,0,1,neu
+172,25740,10740,10740,frequently asked questions and answers about covid-19 vaccine in oklahoma,0,Oklahoma,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+173,2702,2702,2702,"georgia's covid-19 case curve as of nov. 24, 2021",0,Georgia,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+174,29671,14671,14671,how wisconsin’s covid-19 pandemic became one of the worst in the us,-1,Wisconsin,0.728,0,0.272,neu,neg,-0.6249,1,0,0,0,0,1,neg
+175,6073,6073,6073,covid-19 vaccination locations,0,Massachusetts,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+176,5324,5324,5324,"new covid variant detected in louisiana; it's not an imminent threat, health officials say",0,Louisiana,0.824,0.176,0,neu,pos,0.4168,1,0,0,0,1,0,neu
+177,2940,2940,2940,georgia chamber backs gop’s kemp for reelection as governor,-1,Georgia,0.87,0,0.13,neu,neg,-0.0516,1,0,0,0,0,1,neg
+178,3157,3157,3157,"ige limits social gatherings to 10 indoors, 25 outdoors to curb the spread of covid",0,Hawaii,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+179,2107,2107,2107,delaware's largest employers had covid-19 vaccine rules in place prior to biden mandate,0,Delaware,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+180,6425,6425,6425,"yes, even healthy young adults should get a covid-19 booster, and other questions answered",0,Michigan,0.671,0.329,0,neu,pos,0.6597,1,0,0,0,1,0,neu
+181,697,697,697,interactive timeline shows milestones in arizona covid-19 cases and death counts,0,Arizona,0.719,0,0.281,neu,neg,-0.5994,1,0,0,0,0,1,neu
+182,5910,5910,5910,covid-19 ‘delta plus’ variant found in maryland. here’s what that means for now.,0,Maryland,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+183,14954,14954,14954,"current status of covid-19 in laramie county, statewide",0,Wyoming,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+184,12833,12833,12833,release of covid-19 school health support grant | texas education agency,0,Texas,0.606,0.394,0,neu,pos,0.6369,1,0,0,0,1,0,neu
+185,9104,9104,9104,navy medical team heading to new mexico to help with covid,0,New Mexico,0.787,0.213,0,neu,pos,0.4019,1,0,0,0,1,0,neu
+186,18784,3784,3784,coronavirus in illinois updates: here’s what happened march 30 with covid-19 in the chicago area,0,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+187,20834,5834,5834,"unvaccinated people made up all of maryland’s coronavirus deaths in june, health officials say",0,Maryland,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+188,24168,9168,9168,state announces second round of $100 incentives for covid-19 vaccines | nmdoh - coronavirus updates,1,New Mexico,0.839,0.161,0,neu,pos,0.3182,1,0,0,0,1,0,pos
+189,5956,5956,5956,"bike infrastructure will help prevent crashes and fatalities, advocates and researchers say",0,Maryland,0.539,0.228,0.234,neu,neg,-0.2732,1,0,0,0,0,1,neu
+190,17601,2601,2601,"florida covid update: 1,632 new cases added; more people in the hospital",-1,Florida,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+191,17051,2051,2051,what is the full list of the covid-19 vaccine ingredients?,0,Connecticut,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+192,26929,11929,11929,'we are one humanity': health leaders call on wealthy nations to share vaccines,0,South Carolina,0.701,0.299,0,neu,pos,0.5719,1,0,0,0,1,0,neu
+193,19551,4551,4551,"new covid omicron variant 'not a cause for panic,' biden says",0,Kansas,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+194,22624,7624,7624,cascade county is now the largest covid-19 hotspot in montana,-1,Montana,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+195,18199,3199,3199,2 visitors arrested at honolulu airport for falsifying coronavirus vaccination cards,0,Hawaii,0.744,0,0.256,neu,neg,-0.4767,1,0,0,0,0,1,neu
+196,7966,7966,7966,state fair includes coronavirus mitigation efforts,1,Nebraska,0.685,0.315,0,neu,pos,0.3182,1,0,0,0,1,0,pos
+197,15323,323,323,1 (802) 731-7070 alaska airlines cancellation policy | refund policy | test | laconiadailysun.com,0,Alaska,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+198,26079,11079,11079,"coronavirus in oregon: 733 cases, 6 deaths, 44,971 vaccines administered",0,Oregon,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+199,16378,1378,1378,coronavirus california: will we have a 5th covid surge? doctors say 'it's possible',0,California,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+200,5725,5725,5725,montgomery county maryland,0,Maryland,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+201,17773,2773,2773,"mother, father die hours apart from covid-19",-1,Georgia,0.606,0,0.394,neu,neg,-0.5994,1,0,0,0,0,1,neg
+202,28404,13404,13404,covid news: los angeles businesses grapple with vaccine mandate,0,Vermont,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+203,10069,10069,10069,north dakota experiences 'urgent need' for workers as hospital staffing shortages continue,0,North Dakota,0.746,0.134,0.119,neu,pos,0.0516,1,0,0,0,1,0,neu
+204,2732,2732,2732,georgia-based paper mill fined $140k for failing to protect workers from covid-19,1,Georgia,0.629,0.164,0.208,neu,neg,-0.1779,1,0,0,0,0,1,pos
+205,14998,14998,14998,carbon county releases covid-19 vaccination schedule for seniors,0,Wyoming,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+206,26279,11279,11279,pa. weekly covid update: signs of slowing case rate; 75% have 1st shot; new boosters ok’d,0,Pennsylvania,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+207,7330,7330,7330,up to five kids per day hospitalized with covid in springfield area; cases double,-1,Missouri,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+208,18875,3875,3875,"illinois covid update today: il reports 1,740 new coronavirus cases, 42 deaths",0,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+209,19442,4442,4442,"iowa reports another 68 covid-19 deaths, 431 confirmed coronavirus cases",0,Iowa,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+210,8581,8581,8581,here's everything you need to know about getting a covid-19 test in new hampshire,0,New Hampshire,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+211,21065,6065,6065,are breakthrough covid cases declining in massachusetts?,0,Massachusetts,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+212,28073,13073,13073,"biden pushes shots, not more restrictions as variant spreads",0,Utah,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+213,17991,2991,2991,georgia professors demonstrate for tougher covid-19 guidelines,1,Georgia,0.779,0.221,0,neu,pos,0.1779,1,0,0,0,1,0,pos
+214,22775,7775,7775,does my state have a covid-19 vaccine app?,0,Montana,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+215,98,98,98,getting the covid-19 vaccine in alabama,0,Alabama,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+216,19989,4989,4989,gov. beshear says official data now shows covid-19 cases on the decline in kentucky,1,Kentucky,1,0,0,neu,neu,0,1,0,0,1,0,0,pos
+217,5263,5263,5263,louisiana has the fastest growing rate of cases of covid-19 among kids,-1,Louisiana,0.866,0.134,0,neu,pos,0.1779,1,0,0,0,1,0,neg
+218,6480,6480,6480,"many of michigan’s thumb residents are done with covid-19 pandemic, even as virus rages like ‘wildfire’",-1,Michigan,0.714,0.128,0.158,neu,neg,-0.1531,1,0,0,0,0,1,neg
+219,9620,9620,9620,north carolina announces new water assistance program for families affected by covid-19 pandemic,0,North Carolina,0.882,0,0.118,neu,neg,-0.1531,1,0,0,0,0,1,neu
+220,3786,3786,3786,stocks dive over the potential economic fallout from the omicron variant,-1,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+221,24239,9239,9239,new mexico 100% open july 1; state to follow cdc guidance on face masks,0,New Mexico,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+222,11358,11358,11358,pennsylvania won't mandate face masks in public despite rising covid-19 rates,-1,Pennsylvania,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+223,28623,13623,13623,va. coronavirus cases jump overnight; central region sees increase in delta variant cases,0,Virginia,0.839,0.161,0,neu,pos,0.3182,1,0,0,0,1,0,neu
+224,8951,8951,8951,"state's weekly cases remain under 10,000; deaths' rise 467 more than week ago",0,New Jersey,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+225,29729,14729,14729,covid-19 daily update 12-1-2021,0,Wyoming,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+226,9369,9369,9369,global markets rattled by omicron vaccine worries,-1,New York,0.682,0,0.318,neu,neg,-0.4215,1,0,0,0,0,1,neg
+227,10101,10101,10101,"weekly covid-19 case, death data trends downward in north dakota; delta still persists",0,North Dakota,0.755,0,0.245,neu,neg,-0.5994,1,0,0,0,0,1,neu
+228,2723,2723,2723,wellstar opens pediatric covid-19 vaccination centers in acworth and east cobb,0,Georgia,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+229,2402,2402,2402,omicron variant of covid-19 sparks concern in florida,-1,Florida,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+230,19647,4647,4647,portuguese club tondela put into isolation because of virus,-1,Kansas,0.748,0,0.252,neu,neg,-0.4019,1,0,0,0,0,1,neg
+231,24049,9049,9049,new mexico reports 222 new covid-19 cases and eight deaths,-1,New Mexico,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+232,28801,13801,13801,washington state continues to mandate covid-19 vaccination for certain workers,0,Washington,0.811,0.189,0,neu,pos,0.2732,1,0,0,0,1,0,neu
+233,29237,14237,14237,"west virginia reports 1000 new coronavirus cases, 4000 active, as delta spread surges",0,West Virginia,0.816,0.184,0,neu,pos,0.4019,1,0,0,0,1,0,neu
+234,26178,11178,11178,covid-19 vaccines,0,Pennsylvania,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+235,19428,4428,4428,"after long covid battle, iowa man decides to wed in hospital",0,Iowa,0.794,0,0.206,neu,neg,-0.3818,1,0,0,0,0,1,neu
+236,13571,13571,13571,virginia department of health adds covid-19 data dashboard for cases among children - newsroom,0,Virginia,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+237,15732,732,732,herm edwards determined 'to be the coach' at arizona state next season amid ncaa investigation,0,Arizona,0.854,0.146,0,neu,pos,0.34,1,0,0,0,1,0,neu
+238,13449,13449,13449,vermont to keep universal school masking through mid-january,0,Vermont,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+239,16391,1391,1391,coronavirus updates: california covid infections on sharp decline as february arrives,1,California,1,0,0,neu,neu,0,1,0,0,1,0,0,pos
+240,24651,9651,9651,a look back at unc's covid-19 vaccine response,0,North Carolina,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+241,26499,11499,11499,"with 25 new covid-19 cases, ri back in ‘moderate transmission’ category",0,Rhode Island,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+242,13827,13827,13827,federal judge matthew schelp in missouri halts biden's vaccine mandate for health workers,-1,Washington,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+243,8160,8160,8160,"kunr today: coronavirus cases surging in northern nevada, unr president tests positive for covid-19",-1,Nevada,0.783,0.217,0,neu,pos,0.5574,1,0,0,0,1,0,neg
+244,4860,4860,4860,"mexico to reverse course, give covid-19 booster shots",0,Kentucky,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+245,29627,14627,14627,"wisconsin lawmaker with covid-19 on ventilator, stable",0,Wisconsin,0.732,0.268,0,neu,pos,0.296,1,0,0,0,1,0,neu
+246,8887,8887,8887,busy biden projects the ‘command’ in ‘commander in chief’,0,New Jersey,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+247,202,202,202,alabama covid-19 hospitalizations decline but pandemic still ongoing,0,Alabama,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+248,1919,1919,1919,wolf pack game vs. springfield postponed due to covid-19 protocols,0,Connecticut,0.833,0,0.167,neu,neg,-0.2023,1,0,0,0,0,1,neu
+249,17335,2335,2335,state of delaware launches covid alert de mobile app - state of delaware news,0,Delaware,0.845,0.155,0,neu,pos,0.296,1,0,0,0,1,0,neu
+250,2202,2202,2202,holiday recommendations - delaware's coronavirus official website,0,Delaware,0.649,0.351,0,neu,pos,0.4019,1,0,0,0,1,0,neu
+251,18713,3713,3713,$400 coronavirus stimulus check from illinois could come in time for christmas,0,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+252,5820,5820,5820,omicron and other coronavirus variants: what you need to know,0,Maryland,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+253,27338,12338,12338,"opinion | florida, iowa, kansas, tennessee pay people not to get vaccinated",-1,Tennessee,0.877,0,0.123,neu,neg,-0.1027,1,0,0,0,0,1,neg
+254,14956,14956,14956,covid-19: about a third of u.s. adults have received at least one dose of a vaccine,0,Wyoming,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+255,25839,10839,10839,"oregon gives 24,000 state employees six more weeks to get fully vaccinated against covid-19",1,Oregon,1,0,0,neu,neu,0,1,0,0,1,0,0,pos
+256,21490,6490,6490,michigan to extend covid rules to stop recent coronavirus surge,0,Michigan,0.672,0.143,0.185,neu,neg,-0.128,1,0,0,0,0,1,neu
+257,12957,12957,12957,"it's 'good news' that covid-19 case counts are 'going in the right direction,' dr. angela dunn says",0,Utah,0.847,0.153,0,neu,pos,0.4404,1,0,0,0,1,0,neu
+258,4771,4771,4771,"kansas issued a face mask order. counties that opted out saw covid-19 cases rise 100% in 6 weeks, cdc says",0,Kansas,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+259,21874,6874,6874,coronavirus in minnesota: covid-19 booster shots being given in minnesota,0,Minnesota,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+260,6739,6739,6739,tanner morgan returning to minnesota gophers for 6th season,0,Minnesota,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+261,21886,6886,6886,minnesota health officials decry covid vaccine misinformation,0,Minnesota,0.723,0,0.277,neu,neg,-0.3182,1,0,0,0,0,1,neu
+262,3194,3194,3194,week 3 winners announced in hawaii’s coronavirus vaccination incentive campaign,0,Hawaii,0.556,0.444,0,neu,pos,0.6808,1,0,0,0,1,0,neu
+263,23163,8163,8163,state of nevada announces vax nevada days with $5 million in prizes,1,Nevada,0.786,0.214,0,neu,pos,0.4588,1,0,0,0,1,0,pos
+264,13587,13587,13587,covid-19 in virginia: 3.3 million+ have 1st dose; 2.1 million+ fully vaccinated,0,Virginia,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+265,19188,4188,4188,delta variant fueling rise of new covid cases in indiana,0,Indiana,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+266,5222,5222,5222,a 'statewide outbreak' in louisiana: covid cases soar as vaccination rates stall,1,Louisiana,0.847,0,0.153,neu,neg,-0.2023,1,0,0,0,0,1,pos
+267,708,708,708,"coronavirus cases in arizona, mapped by county: nov. 9",0,Arizona,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+268,11730,11730,11730,emergex confirms its next generation t-cell priming covid-19 vaccine candidate has the potential to be effective against all currently sequenced viral mutations,1,South Carolina,0.871,0.129,0,neu,pos,0.4767,1,0,0,0,1,0,pos
+269,17989,2989,2989,"coronavirus in georgia | state marks deadliest day for pandemic, with 170 new confirmed deaths",0,Georgia,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+270,21319,6319,6319,major northern michigan health system goes ‘red’ to care for covid-19 patients,0,Michigan,0.775,0.225,0,neu,pos,0.4939,1,0,0,0,1,0,neu
+271,13387,13387,13387,"coronavirus deaths spiked in vt. this winter, as vaccines were around the corner",-1,Vermont,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+272,24389,9389,9389,"governor cuomo, governor murphy and governor lamont announce significant easing of covid-19 pandemic restrictions on businesses, gatherings and venues",0,New York,0.817,0.183,0,neu,pos,0.4215,1,0,0,0,1,0,neu
+273,14672,14672,14672,coronavirus cases climb for fourth straight day; vaccinations set another daily record,0,Wisconsin,0.853,0.147,0,neu,pos,0.2263,1,0,0,0,1,0,neu
+274,5566,5566,5566,"new delta variant raises concerns, as maine's covid-19 case decline continues",0,Maine,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+275,5279,5279,5279,louisiana's covid-19 surge starts to stall other surgeries,-1,Louisiana,0.795,0,0.205,neu,neg,-0.2023,1,0,0,0,0,1,neg
+276,15388,388,388,unscathed: these alaska villages are reaching herd immunity — without a single case of covid-19,0,Alaska,0.87,0.13,0,neu,pos,0.2023,1,0,0,0,1,0,neu
+277,29143,14143,14143,covid-19 update: gov. justice lifts face covering requirement for fully vaccinated west virginians,-1,West Virginia,0.779,0.221,0,neu,pos,0.5267,1,0,0,0,1,0,neg
+278,18240,3240,3240,"covid-19 cases on the rise, could we be facing tighter restrictions again?",0,Hawaii,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+279,8294,8294,8294,covid cases among vaccinated on the rise in clark county,0,Nevada,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+280,9176,9176,9176,"new low-risk status offers hope for new mexico theaters, bars",1,New Mexico,0.756,0.244,0,neu,pos,0.4404,1,0,0,0,1,0,pos
+281,11650,11650,11650,how and where to get covid-19 vaccines and boosters in rhode island,0,Rhode Island,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+282,19113,4113,4113,"71 additional covid-19 deaths, 2,807 new cases reported in indiana",0,Indiana,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+283,19553,4553,4553,omicron brings covid-19 vaccine inequity ‘home to roost’,-1,Kansas,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+284,10831,10831,10831,boosters less likely among la's poor; oregon pays pharmacies to give shots,0,Oregon,0.78,0,0.22,neu,neg,-0.4767,1,0,0,0,0,1,neu
+285,6481,6481,6481,whitmer is holding off for now on michigan covid limits. here’s why.,0,Michigan,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+286,23927,8927,8927,pennacchio: what if democrat leadership had worked this hard to keep covid out of nursing homes?,-1,New Jersey,0.909,0,0.091,neu,neg,-0.128,1,0,0,0,0,1,neg
+287,12739,12739,12739,texas covid-19 surge could be worst one yet,-1,Texas,0.631,0,0.369,neu,neg,-0.6249,1,0,0,0,0,1,neg
+288,22702,7702,7702,the covid surge was on the decline. now progress has stalled out : shots - health news,0,Montana,0.739,0.159,0.102,neu,pos,0.25,1,0,0,0,1,0,neu
+289,297,297,297,6 alabama counties ‘very high risk’ for covid,-1,Alabama,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+290,20714,5714,5714,covid-19 ‘delta plus’ variant found in maryland. here’s what that means for now.,-1,Maryland,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+291,12135,12135,12135,north dakota and south dakota set global covid records. how did they turn the tide?,-1,South Dakota,1,0,0,neu,neu,0,1,0,0,1,0,0,neg
+292,15567,567,567,the covid-19 delta variant is causing worry worldwide. here's the latest on alaska's outlook.,-1,Alaska,0.818,0,0.182,neu,neg,-0.4404,1,0,0,0,0,1,neg
+293,812,812,812,report finds covid is arizona’s no. 1 cause of death during pandemic,-1,Arizona,0.596,0,0.404,neu,neg,-0.7269,1,0,0,0,0,1,neg
+294,3804,3804,3804,"illinois coronavirus updates: mask mandate latest, booster shot schedule",0,Illinois,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+295,4219,4219,4219,hy-vee to open drive-thru covid-19 test site on iowa state campus in ames on thursday,0,Iowa,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+296,16202,1202,1202,california coronavirus updates: california says it is closely monitoring the omicron covid-19 variant,0,California,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+297,28981,13981,13981,"coronavirus daily news updates, aug. 30: what to know today about covid-19 in the seattle area, washington state and the world",0,Washington,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+298,14457,14457,14457,covid-19 hospitalizations at rate not seen in several months,0,Wisconsin,1,0,0,neu,neu,0,1,0,0,1,0,0,neu
+299,23108,8108,8108,nevada opens eligibility for covid-19 vaccine booster to all adults,1,Nevada,1,0,0,neu,neu,0,1,0,0,1,0,0,pos
