@@ -35,3 +35,7 @@ dash-core-components
 
 3. Once you've installed those files all you have to do is run the following script from the command line. Before your run the below code, make sure you specify the location of the file OR make you're already located in that specific folder that contains the file: \
 python news_sentiment_analysis.py\
+
+4. After running the command in step 3, it will take a couple minutes for the analysis to work. Eventually you will get a series of warning messages, which can be ignored.
+
+5. Finally, you will see a message towards the bottom: "Running on http://127.0.0.1:8050/". Copy paste http://127.0.0.1:8050/ (or whatever local server has been created) on your browser. This will then display the app. 
