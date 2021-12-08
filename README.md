@@ -33,4 +33,4 @@ dash-html-components\
 dash-core-components
 
 3. Once you've installed those files all you have to do is run the following script from the command line. Make sure you specify the location of the file OR make you're already located in that specific folder: \
-python news_sentiment_analysis.py\
+python news_sentiment_analysis.py
