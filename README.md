@@ -20,7 +20,8 @@ There are a total of 9 files in this repository:  <br/>
 
 1. Clone the repository in your directory of interest. To do this simply open the command line and enter:
 
- git clone https://github.com/bhullar5/CourseProject.git 
+ git clone https://github.com/bhullar5/CourseProject.git \
+ Technically, you could simply just download the news_sentiment_analysis.py file since you don't need the others to run the analysis. 
  
 2. Once you've cloned the repository into your directory of choice we want to make sure we have the necessary libraries to run this code. Please make sure you have the following packages/libraries installed:\
 pandas\
@@ -32,5 +33,5 @@ dash  \
 dash-html-components\
 dash-core-components
 
-3. Once you've installed those files all you have to do is run the following script from the command line. Before your run the below code, make sure you specify the location of the file OR make you're already located in that specific folder: \
-python news_sentiment_analysis.py
+3. Once you've installed those files all you have to do is run the following script from the command line. Before your run the below code, make sure you specify the location of the file OR make you're already located in that specific folder that contains the file: \
+python news_sentiment_analysis.py\
