@@ -71,6 +71,6 @@ PLEASE LOOK AT THE INSTRUCTIONS SECTION FOR THIS
 ----
 4) Brief description of contribution of each team member in case of a multi-person team.\
 I was the only one on the team, I spent approximately 20 hours on this, from question 2 I've defined how long each stage took:\
-Stage 1: ~9 hours
-Stage 2: ~8 hours
+Stage 1: ~9 hours\
+Stage 2: ~8 hours\
 Stage 3: ~4 hours
