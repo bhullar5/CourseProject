@@ -32,7 +32,7 @@ plotly\
 dash  \
 dash-html-components\
 dash-core-components\
-openpyxl (this MAY needed to be installed)
+openpyxl (this MAY need to be installed)
 
 3. Once you've installed those files all you have to do is run the following script from the command line. Before your run the below code, make sure you specify the location of the file OR make you're already located in that specific folder that contains the file: \
 python news_sentiment_analysis.py
@@ -65,8 +65,8 @@ Stage 2: In this stage we go through the original dataset and create three datas
 Stage 3: At this point we had enough data analysis on the sentiment, so it was time to calculate the accuracy rates. Since this was a brand new dataset, I had to create a test dataset myself by going through a subset of the data and classifying it as positive, negative or neutral. I ended up looking at a subset of 300 headlines randomly selected from the dataset and then going through each headline to categorize it as positive, negative or neutral. From this I calculated various different accuracy rates. Finally, the results from Stage 2 are displayed on a U.S. map using python's dash framework. I simply inputted the datasets created and then used the state abbreviation as a coordinate. The state avbbreviations were simply added to  When a user runs "python news_sentiment_analysis.py", they will be able to see this app on their local server. The user can then over the map to see what the vaccination rate, the positive/negativ/neutral percentages for headlines for a specific state.
 
 ----
-3) Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable. 
+3) Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable.\
 PLEASE LOOK AT THE INSTRUCTIONS SECTION FOR THIS
 ----
-4) Brief description of contribution of each team member in case of a multi-person team.
+4) Brief description of contribution of each team member in case of a multi-person team.\
 I was the only one on the team.
