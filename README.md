@@ -3,7 +3,7 @@
 Goal 1: Use web scraping techniques discussed in class to generate a dataset that consists of Covid-19 related headlines for each state. \
 Goal 2: Implement SentimentIntensityAnalyzer to apply sentiment analysis to each headline. \
 Goal 3: Display the results for each state as a percentage of neutral, positive and negatives headlines. \
-Tools: Python 3.9, SentimentIntensityAnalyzer (https://towardsdatascience.com/sentimental-analysis-using-vader-a3415fef7664) \
+Tools: Python 3.9, SentimentIntensityAnalyzer (https://towardsdatascience.com/sentimental-analysis-using-vader-a3415fef7664)
 
 # Files
 
