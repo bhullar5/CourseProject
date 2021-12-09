@@ -8,13 +8,13 @@ Tools: Python 3.9, SentimentIntensityAnalyzer (https://towardsdatascience.com/se
 # Files
 
 There are a total of 7 files in this repository, but the news_sentiment_analysis.py is the main one of interest:  <br/>
-  generate_dataset.py --> code that generates the datasets that contain Google news headlines <br/>
-  data_11_30_21.csv  --> dataset that contains Google news headlines for 11/30/21  <br/>
-  data_12_1_21.csv --> dataset that contains Google news headlines for 12/1/21  <br/>
-  news_sentiment_analysis.py --> code that applies sentiment analysis to each headline  <br/>
-  state_abbrev.csv --> file that contains state abbreviations, this will be used as a coordinate in the US map   <br/>
-  test.csv --> test dataset consisting of radnomly selected 300 headlines, this is used to calculate our model's accuracy, precision and recall  <br/>
-  vaccinations.csv --> contains vaccination rates for 50 U.S. states as of 12/6/21 <br/>
+  &nbsp; generate_dataset.py --> code that generates the datasets that contain Google news headlines for each U.S. state<br/>
+  &nbsp; data_11_30_21.csv  --> dataset that contains Google news headlines for 11/30/21  <br/>
+  &nbsp; data_12_1_21.csv --> dataset that contains Google news headlines for 12/1/21  <br/>
+  &nbsp; news_sentiment_analysis.py --> code that applies sentiment analysis to each headline, generates a python dashboard displaying the results and calculates accuracy <br/>
+  &nbsp; state_abbrev.csv --> file that contains state abbreviations, this will be used as a coordinate in the US map   <br/>
+  &nbsp; test.csv --> test dataset consisting of radnomly selected 300 headlines, this is used to calculate our model's accuracy, precision and recall  <br/>
+  &nbsp; vaccinations.csv --> contains vaccination rates for 50 U.S. states as of 12/6/21 <br/>
   
 # Instructions 
 
