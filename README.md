@@ -24,18 +24,18 @@ There are a total of 7 files in this repository, but the news_sentiment_analysis
  Technically, you could simply just download the news_sentiment_analysis.py file since you don't need the others to run the analysis. 
  
 2. Once you've cloned the repository into your directory of choice we want to make sure we have the necessary libraries to run this code. Please make sure you have the following packages/libraries installed:\
-pandas\
-beautifulsoup4\
-numpy\
-nltk\
-plotly\
-dash  \
-dash-html-components\
-dash-core-components\
-openpyxl (this MAY need to be installed)
+&nbsp; pandas\
+&nbsp; beautifulsoup4\
+&nbsp; numpy\
+&nbsp; nltk\
+&nbsp; plotly\
+&nbsp; dash  \
+&nbsp; dash-html-components\
+&nbsp; dash-core-components\
+&nbsp; openpyxl (this MAY need to be installed)
 
 3. Once you've installed those files all you have to do is run the following script from the command line. Before your run the below code, make sure you specify the location of the file OR make you're already located in that specific folder that contains the file: \
-python news_sentiment_analysis.py
+&nbsp; python news_sentiment_analysis.py
 
 4. After running the command in step 3, it will take a couple minutes for the analysis to work. Eventually you will get a series of warning messages, which can be ignored.
 
@@ -52,11 +52,11 @@ The news_sentiment_analysis.py file is used to analyze the results from the gene
 The main function of this project was to see how vaccination rates and the sentiments around Covid-19 (through Google news) vary across the various U.S. states. This can be extended to reflect counties or countries by simply changing the existing country dataset to a country or country dataset and then changing the choropleth map type.
 ----
 2) Documentation of how the software is implemented with sufficient detail so that others can have a basic understanding of your code for future extension or any further improvement. \
-Tools used: \
-SentimentIntensityAnalyzer from nltk\
-Python 3.9\
-Python Dash\
-The code has three stages.\
+&nbsp;Tools used: \
+&nbsp;&nbsp;SentimentIntensityAnalyzer from nltk\
+&nbsp;&nbsp;Python 3.9\
+&nbsp;&nbsp;Python Dash\
+&nbsp;&nbsp;The code has three stages.\
  \
 Stage 1: In this stage we run the generate_dataset.py file to generate a new dataset that consists of the headlines for the 50 states for that given day. For example, if I run that file on 12/7/21, it will generate the dataset for that specific date. The code itself is fairly simple, and you can view the comments in the actual file to get a more detaield explanation. Basically, I used the package beautifulsoup that uses requests.get(some url) and returns the json for that specific url. The url itself is some varaition of "https://news.google.com/search?q=corona+virus+" with the state from the country dataset. We iterate through the country dataset by appending each state to the query that will be used in the request.get() request. We then store its results by parsing through the html to look for the headlines and finally creating a dataframe from it, which can be imported to your operating system. This code does take a very long time to generate, at least 1.5 hours. The expected outcome is a dataset consisting of 15,000 entries. I generated this dataset on 11/30/21 and 12/1/21 to get a total of 30,000 entires, these datasets were used in the analysis. \
  \
