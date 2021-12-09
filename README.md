@@ -21,9 +21,8 @@ There are a total of 7 files in this repository, but the news_sentiment_analysis
 1. Clone the repository in your directory of interest. To do this simply open the command line and enter:
 
  git clone https://github.com/bhullar5/CourseProject.git \
- Technically, you could simply just download the news_sentiment_analysis.py file since you don't need the others to run the analysis. 
  
-2. Once you've cloned the repository OR downloaded the news_sentiment_analysis.py into your directory of choice, we want to make sure we have the necessary libraries to run this code. Please make sure you have the following packages/libraries installed:\
+2. Once you've cloned the repository into your directory of choice, we want to make sure we have the necessary libraries to run this code. Please make sure you have the following packages/libraries installed:\
 &nbsp; pandas\
 &nbsp; beautifulsoup4\
 &nbsp; numpy\
