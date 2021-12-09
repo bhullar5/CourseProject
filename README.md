@@ -36,12 +36,16 @@ There are a total of 7 files in this repository, but the news_sentiment_analysis
 3. Once you've installed those files all you have to do is run the following script from the command line. Before your run the below code, make sure you specify the location of the file OR make you're already located in that specific folder that contains the file: \
 &nbsp; python news_sentiment_analysis.py
 
-4. After running the command in step 3, it will take a couple minutes for the analysis to work. Eventually you will get a series of warning messages, which can be ignored.
-
-5. Finally, you will see a message towards the bottom: "Running on http://127.0.0.1:8050/". Copy paste http://127.0.0.1:8050/ (or whatever local server has been created) into your browser. This will then display the app. 6. 
-6. The expected results are available in the below image. 
+4. After running the command in step 3, it will take a couple minutes for the analysis to work. Eventually you will get a series of warning messages, which can be ignored.\
+ 
+5. The expected results can be seen below:\
 ![image](https://user-images.githubusercontent.com/90154703/145348477-6f299136-7864-4be7-b448-51e55e31df96.png)
+![image](https://user-images.githubusercontent.com/90154703/145350541-175ef2a0-4d0b-463c-910e-19103788136d.png)
 
+6. Finally, you will see a message towards the bottom: "Running on http://127.0.0.1:8050/". Copy paste http://127.0.0.1:8050/ (or whatever local server has been created) into your browser. This will then display the app, the app can be seen below:\
+![image](https://user-images.githubusercontent.com/90154703/145350692-904e9969-6832-4adb-a45e-1ad30c4dc578.png)
+
+7. Now you can hover over each state and compare its sentiment analysis to the vaccination rates. 
 
 # Documentation Questions
 
