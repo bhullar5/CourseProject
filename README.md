@@ -38,7 +38,10 @@ There are a total of 7 files in this repository, but the news_sentiment_analysis
 
 4. After running the command in step 3, it will take a couple minutes for the analysis to work. Eventually you will get a series of warning messages, which can be ignored.
 
-5. Finally, you will see a message towards the bottom: "Running on http://127.0.0.1:8050/". Copy paste http://127.0.0.1:8050/ (or whatever local server has been created) into your browser. This will then display the app. 
+5. Finally, you will see a message towards the bottom: "Running on http://127.0.0.1:8050/". Copy paste http://127.0.0.1:8050/ (or whatever local server has been created) into your browser. This will then display the app. 6. 
+6. The expected results are available in the below image. 
+![image](https://user-images.githubusercontent.com/90154703/145348477-6f299136-7864-4be7-b448-51e55e31df96.png)
+
 
 # Documentation Questions
 
