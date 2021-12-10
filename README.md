@@ -1,5 +1,7 @@
 # Covid-19 News Headline Sentiment Analysis Goals
 
+Link to presentation: https://mediaspace.illinois.edu/media/t/1_j664ytkl
+
 Goal 1: Use web scraping techniques discussed in class to generate a dataset that consists of Covid-19 related headlines for each state. \
 Goal 2: Implement SentimentIntensityAnalyzer to apply sentiment analysis to each headline. \
 Goal 3: Display the results for each state as a percentage of neutral, positive and negatives headlines. \
