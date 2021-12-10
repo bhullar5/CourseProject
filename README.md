@@ -33,6 +33,7 @@ There are a total of 7 files in this repository, but the news_sentiment_analysis
 &nbsp; dash  \
 &nbsp; dash-html-components\
 &nbsp; dash-core-components\
+&nbsp; requests
 &nbsp; openpyxl (this MAY need to be installed)
 
 3. Once you've installed those files all you have to do is run the following script from the command line. Before your run the below code, make sure you specify the location of the file OR make you're already located in that specific folder that contains the file: \
